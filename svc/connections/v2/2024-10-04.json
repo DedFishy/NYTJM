@@ -1,0 +1,92 @@
+{
+    "status": "OK",
+    "id": 483,
+    "print_date": "2024-10-04",
+    "editor": "Boyne Gregg",
+    "categories": [
+        {
+            "title": "FEDERALIST PAPERS BY MADISON",
+            "cards": [
+                {
+                    "content": "TEN",
+                    "position": 3
+                },
+                {
+                    "content": "FOURTEEN",
+                    "position": 6
+                },
+                {
+                    "content": "THIRTY-NINE",
+                    "position": 4
+                },
+                {
+                    "content": "FIFTY-ONE",
+                    "position": 13
+                }
+            ]
+        },
+        {
+            "title": "FREEDOMS PROTECTED BY THE BILL OF RIGHTS",
+            "cards": [
+                {
+                    "content": "PRESS",
+                    "position": 14
+                },
+                {
+                    "content": "RELIGION",
+                    "position": 5
+                },
+                {
+                    "content": "SPEECH",
+                    "position": 2
+                },
+                {
+                    "content": "ASSEMBLY",
+                    "position": 11
+                }
+            ]
+        },
+        {
+            "title": "EARLY AGE MENTORS",
+            "cards": [
+                {
+                    "content": "DONALD ROBERTSON",
+                    "position": 15
+                },
+                {
+                    "content": "THOMAS MARTIN",
+                    "position": 10
+                },
+                {
+                    "content": "JOHN WITHERSPOON",
+                    "position": 0
+                },
+                {
+                    "content": "WILLIAM BRADFORD",
+                    "position": 8
+                }
+            ]
+        },
+        {
+            "title": "AUTHORED/COAUTHORED BY MADISON",
+            "cards": [
+                {
+                    "content": "FEDERALIST PAPERS",
+                    "position": 9
+                },
+                {
+                    "content": "VIRGINIA PLAN",
+                    "position": 1
+                },
+                {
+                    "content": "NATIONAL GAZETTE ESSAY",
+                    "position": 7
+                },
+                {
+                    "content": "BILL OF RIGHTS",
+                    "position": 12
+                }
+            ]
+        }
+    ]
+}
